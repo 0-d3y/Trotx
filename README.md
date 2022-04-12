@@ -8,10 +8,13 @@ Working
 # environment: linux
 Commands:
 
+1•<code> git clone https://github.com/mr-sami-x/Trotx</code>
 
+2•<code> cd Trotx </code>
 
+3•<code> chmod +x trotx.sh </code>
 
-
+4•<code> ./trotx.sh </code>
 #### Follow me
 
 [Telegram](https://t.me/TYG_TEAM)
